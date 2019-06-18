@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:snoopy.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:Charlie_Brown_and_Snoopy2.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:snoopy3.png">
+   </FileRef>
+   <FileRef
+      location = "group:snooppy&#xff12;.png">
+   </FileRef>
+   <FileRef
+      location = "self:count.secondt.xcodeproj">
+   </FileRef>
+</Workspace>
